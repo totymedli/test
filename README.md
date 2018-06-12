@@ -10,7 +10,7 @@ I use this repo only for test. This way I don't mess up the logs of already exis
     
       code
     
-* item
+* item with some `code` and ```other code```
     
 --- 
     
